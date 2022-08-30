@@ -29,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://github.com/Darraya55/Fronted-mentor-Build-a-QR-code-component-challenge-solution/blob/main/index.html))
 
 ## My process
 
